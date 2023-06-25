@@ -1,0 +1,15 @@
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/bin/Debug/net6.0/LINQ_Tests
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/bin/Debug/net6.0/LINQ_Tests.deps.json
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/bin/Debug/net6.0/LINQ_Tests.runtimeconfig.json
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/bin/Debug/net6.0/LINQ_Tests.dll
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/bin/Debug/net6.0/ref/LINQ_Tests.dll
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/bin/Debug/net6.0/LINQ_Tests.pdb
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.csproj.AssemblyReference.cache
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.AssemblyInfoInputs.cache
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.AssemblyInfo.cs
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.csproj.CoreCompileInputs.cache
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.dll
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/ref/LINQ_Tests.dll
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.pdb
+/Users/stanislavcudenkov/Documents/LINQ/LINQ_Tests/obj/Debug/net6.0/LINQ_Tests.genruntimeconfig.cache
